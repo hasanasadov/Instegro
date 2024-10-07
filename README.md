@@ -1,1 +1,2 @@
-# Instegro
+# React + Vite
+
